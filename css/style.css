@@ -1,0 +1,52 @@
+@font-face{
+	font-family: 'NewPolice';
+	src: url('fonts/source-sans-pro/SourceSansPro-Bold.otf');
+}
+
+body
+{
+	background-image: url(img/background.jpg);
+}
+
+h1
+{
+	color:red;
+}
+
+.main
+{
+	clear: both;
+}
+
+.introduction
+{
+    color: blue; /* Les paragraphes seront en bleu */
+}
+
+.latin
+{
+	text-shadow: 2px 2px #ff0000;
+}
+
+*
+{
+	font-family: Tahoma;
+}
+
+.police_spe
+{
+	font-family: NewPolice;
+}
+
+.footer
+{
+	font-style: italic;
+	color: gray;
+	text-decoration: underline;
+	text-align: right;
+}
+
+.image_flottante
+{
+	float: left;
+}
