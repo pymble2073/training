@@ -3,7 +3,7 @@
 	src: url('fonts/source-sans-pro/SourceSansPro-Bold.otf');
 }
 
-body
+body, h1
 {
 	background-image: url(img/background.jpg);
 }
